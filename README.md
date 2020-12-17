@@ -23,7 +23,6 @@ Main purpose of the "Promotional Item Granting Utility" is to provide a graphica
 ## Possible future features
 
 - Check a user's inventory directly through the [Steam Web API](https://steamcommunity.com/dev) for any existing items of the given type to prevent distributing duplicate items (instead of using a CSV file to track given items)
-- Make all requests asynchronous to improve UI responsiveness
 - Add manual cancelation to the item granting process so it can be stopped in case you'd like to pause or cancel while the distribution process is already running
 - Add check on startup for any available updates to the Software
 
@@ -41,4 +40,3 @@ Main purpose of the "Promotional Item Granting Utility" is to provide a graphica
 If you have feedback or questions that are not answered in the [Wiki](https://github.com/manschitz/tf2-promoitemgrant/wiki) send me a message on [Steam](http://steamcommunity.com/profiles/76561197988875517/) or an email at [contact@manschitz.com](mailto:contact@manschitz.com).
 
 This tool will always be Freeware and you're under no obligation to pay for it. However, if you'd like to support my work, I greatly do appreciate any donations you send me through PayPal at [https://www.paypal.me/workdonations](https://www.paypal.me/workdonations).
-
